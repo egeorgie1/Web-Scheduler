@@ -1,5 +1,6 @@
 # Web-Scheduler
 Technologies: HTML, CSS, JavaScript, AJAX, PHP, MySql 
+
 Functionality:
    - Make a presentations schedule
    - Dynamically save and update user preferences
